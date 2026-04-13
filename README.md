@@ -15,7 +15,14 @@ de vez em quando, ele emite mensagens curtas e estranhas que sugerem uma “pres
 - raramente mostra mensagens aleatórias
 - algumas mensagens aparecem em cores diferentes
 
-## instalação
+
+## instalação necessária
 
 ```bash
 pip install colorama
+```
+
+## execução
+```bash
+python main.py
+```
