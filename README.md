@@ -23,6 +23,7 @@ pip install colorama
 ```
 
 ## execução
+
 ```bash
 python main.py
 ```
